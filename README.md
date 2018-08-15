@@ -13,3 +13,6 @@ Please find the details in OHI_Seg_Data
 In Part II, continuous video streams are collected for the evaluation of online activity recognition methods. Each video sequence contains 10 human interactions continuously performed by one pair of subjects. The ground truth labels along with the starting and ending points of activities are provided. During the interval of two activities, the subjects are free to perform any actions instead of standing still, which makes this database closer to practical scenarios as well as challenging. Figure 2 shows an example sequence of our database. 
 The RGB videos and corresponding depth videos and skeleton sequences can been find in OHI_Continuouse_Data
 
+The dataset and its detail discription can be downloaded via the following link:
+https://drive.google.com/drive/folders/1or__6aGBxZji2AQD5Bp7tSI_X1N1Ug9M?usp=sharing
+
