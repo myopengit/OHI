@@ -3,7 +3,7 @@
 Online Human Interaction (OHI) Database
 
 This database contains total 10 human interactions: shaking hands, high waving, kicking, punching, pushing, hugging, high-fiving, approaching, departing and exchanging objects. Each interaction is performed by 23 pairs of subjects for 2 to 4 times. 
-We record RGB images (640*480), depth images (640*480), and 3D coordinates of 20 skeleton joints for each pair of subjects using Kinect version 1. The registered depth images are also provided for the facility of fusing the information from both channels at the pixel level. 
+We record RGB images (640,480), depth images (640,480), and 3D coordinates of 20 skeleton joints for each pair of subjects using Kinect version 1. The registered depth images are also provided for the facility of fusing the information from both channels at the pixel level. 
 
 There are two parts in this database.
 
