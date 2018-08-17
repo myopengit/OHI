@@ -14,5 +14,4 @@ In Part II, continuous video streams are collected for the evaluation of online 
 The RGB videos and corresponding depth videos and skeleton sequences can been find in OHI_Continuouse_Data
 
 The dataset and its detail discription can be downloaded via the following link:
-https://drive.google.com/drive/folders/1or__6aGBxZji2AQD5Bp7tSI_X1N1Ug9M?usp=sharing
-
+https://drive.google.com/drive/folders/1FVrM10ig0rmeY_RWep99iL76Kh5KmXgA?usp=sharing
